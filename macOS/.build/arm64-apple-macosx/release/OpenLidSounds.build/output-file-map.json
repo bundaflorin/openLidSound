@@ -1,0 +1,13 @@
+{
+  "": {
+    "dependencies": "/Users/mac/GitHub/fahhh/.build/arm64-apple-macosx/release/OpenLidSounds.build/OpenLidSounds.d",
+    "object": "/Users/mac/GitHub/fahhh/.build/arm64-apple-macosx/release/OpenLidSounds.build/OpenLidSounds.o",
+    "swift-dependencies": "/Users/mac/GitHub/fahhh/.build/arm64-apple-macosx/release/OpenLidSounds.build/primary.swiftdeps"
+  },
+  "/Users/mac/GitHub/fahhh/Sources/main.swift": {
+    "object": "/Users/mac/GitHub/fahhh/.build/arm64-apple-macosx/release/OpenLidSounds.build/main.swift.o",
+    "swiftmodule": "/Users/mac/GitHub/fahhh/.build/arm64-apple-macosx/release/OpenLidSounds.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/GitHub/fahhh/.build/arm64-apple-macosx/release/OpenLidSounds.build/main.swiftdeps",
+    "diagnostics": "/Users/mac/GitHub/fahhh/.build/arm64-apple-macosx/release/OpenLidSounds.build/main.dia"
+  }
+}
